@@ -63,7 +63,23 @@ Please add the following entries:
 Is there anything that could cause performance issues in this class?
 ```
 
-# – Az DevOps Integration
+# 6 – Fehlerquelle(N) identifizieren
+
+None
+
+# 7 – GitHub Actions Fehler beheben
+
+None
+
+# 8 -
+
+# 9 -
+
+# 10 -
+
+# 11 -
+
+# 12 – Azure DevOps Integration
 
 ```
 Please create a new work item of type User Story with title "Add LICENSE file to the repo"
