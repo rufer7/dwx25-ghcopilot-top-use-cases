@@ -1,3 +1,3 @@
 # dwx25-ghcopilot-top-use-cases
 
-Repository for demos during my session at DWX25 about `GitHub Copilot & GitHub Copilot Chat - Top Anwendungsfälle aus der Praxis`.
+Repository containing prompts for demos for my session at DWX25 on `GitHub Copilot & GitHub Copilot Chat - Top Anwendungsfälle aus der Praxis`.
