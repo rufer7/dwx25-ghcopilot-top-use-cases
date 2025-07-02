@@ -85,7 +85,9 @@ Please add price to Drink and expose it in the UI
 
 None
 
-# 11 -
+# 11 - Code reviewen lassen
+
+None
 
 # 12 – Azure DevOps Integration
 
