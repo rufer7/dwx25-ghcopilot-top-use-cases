@@ -48,7 +48,7 @@ The application requires caching for certain data to improve performance of heav
 // Create test to get drink by id that does not exist
 ```
 
-# 4 - i18n
+# 4 – Übersetzen (i18n)
 
 ```
 Please add the following entries:
@@ -57,7 +57,13 @@ Please add the following entries:
 - Close
 ```
 
-# 5
+# 5 – Performance-Probleme identifizieren
+
+```
+Is there anything that could cause performance issues in this class?
+```
+
+# – Az DevOps Integration
 
 ```
 Please create a new work item of type User Story with title "Add LICENSE file to the repo"
