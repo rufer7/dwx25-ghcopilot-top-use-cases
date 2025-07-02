@@ -71,9 +71,11 @@ None
 
 None
 
-# 8 -
+# 8 – JS/TS Fehler beheben
 
-# 9 -
+None
+
+# 9 – Bestehenden Code erweitern
 
 # 10 -
 
