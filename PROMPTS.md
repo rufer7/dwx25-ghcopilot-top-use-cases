@@ -77,7 +77,13 @@ None
 
 # 9 – Bestehenden Code erweitern
 
-# 10 -
+```
+Please add price to Drink and expose it in the UI
+```
+
+# 10 – Pull Request Beschreibungen generieren
+
+None
 
 # 11 -
 
