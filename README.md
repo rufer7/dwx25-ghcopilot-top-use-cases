@@ -4,8 +4,8 @@ Repository containing the slides as well as prompts for demos for my session at 
 
 ## Slides
 
-See [2023-10-04-dwx25-ghcopilot-top-use-cases.pdf](20250703-DWX25-GH-Copilot-Top-Anwendungsfaelle-aus-der-Praxis.pdf) for the slides.
+See [here](20250703-DWX25-GH-Copilot-Top-Anwendungsfaelle-aus-der-Praxis.pdf) for the slides.
 
 ## Prompts
 
-See [PROMPTS.md](PROMPTS.md) for the prompts used in the demos.
+See [here](PROMPTS.md) for the prompts used in the demos.
