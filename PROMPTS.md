@@ -2,13 +2,13 @@
 
 Prompts for the demos.
 
-# 1 – Code erklären
+# 1 - Code erklären
 
 ```
 #codebase can you please explain in short what the application in this project does?
 ```
 
-# 2 – Dokumentation schreiben
+# 2 - Dokumentation schreiben
 
 ```
 Please write a short and crisp architecture decision record for the following keywords:
@@ -48,7 +48,7 @@ The application requires caching for certain data to improve performance of heav
 // Create test to get drink by id that does not exist
 ```
 
-# 4 – Übersetzen (i18n)
+# 4 - Übersetzen (i18n)
 
 ```
 Please add the following entries:
@@ -57,31 +57,31 @@ Please add the following entries:
 - Close
 ```
 
-# 5 – Performance-Probleme identifizieren
+# 5 - Performance-Probleme identifizieren
 
 ```
 Is there anything that could cause performance issues in this class?
 ```
 
-# 6 – Fehlerquelle(N) identifizieren
+# 6 - Fehlerquelle(N) identifizieren
 
 None
 
-# 7 – GitHub Actions Fehler beheben
+# 7 - GitHub Actions Fehler beheben
 
 None
 
-# 8 – JS/TS Fehler beheben
+# 8 - JS/TS Fehler beheben
 
 None
 
-# 9 – Bestehenden Code erweitern
+# 9 - Bestehenden Code erweitern
 
 ```
 Please add price to Drink and expose it in the UI
 ```
 
-# 10 – Pull Request Beschreibungen generieren
+# 10 - Pull Request Beschreibungen generieren
 
 None
 
@@ -89,7 +89,7 @@ None
 
 None
 
-# 12 – Azure DevOps Integration
+# 12 - Azure DevOps Integration
 
 ```
 Please create a new work item of type User Story with title "Add LICENSE file to the repo"
